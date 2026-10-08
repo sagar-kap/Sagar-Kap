@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (today)
 - [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (6 days ago)
 - [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (2 weeks ago)
 - [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) - A front end website for a photography shop. (3 weeks ago)
 - [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (4 weeks ago)
-- [devhaver/kabbalahindia.com](https://github.com/devhaver/kabbalahindia.com) - This is the landing page for the Indian specific context for the Bnei Baruch organisation.  (1 month ago)
 
 
 #### 📜 My recent blog posts
