@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (today)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (1 day ago)
-- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
-- [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) - A front end website for a photography shop. (4 weeks ago)
+- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (1 day ago)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (2 days ago)
+- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 weeks ago)
+- [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) - A front end website for a photography shop. (1 month ago)
 - [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (1 month ago)
 
 
