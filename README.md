@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (today)
+- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (1 day ago)
 - [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (1 week ago)
-- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 weeks ago)
+- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
 - [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) - A front end website for a photography shop. (1 month ago)
 - [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (1 month ago)
 
 
 #### 📜 My recent blog posts
 
-- [Running Ubuntu Headless on Pi4 from USB](https://www.sagarkapoor.eu/raspberry-pi4-headless-ubuntu-from-usb/) (4 years ago)
+- [Running Ubuntu Headless on Pi4 from USB](https://www.sagarkapoor.eu/raspberry-pi4-headless-ubuntu-from-usb/) (5 years ago)
 - [Getting Started With Git](https://www.sagarkapoor.eu/getting-started-with-git/) (5 years ago)
 - [How to Scrape a site with Python](https://www.sagarkapoor.eu/how-to-scrape-with-python/) (5 years ago)
 - [Hello there!](https://www.sagarkapoor.eu/about/) (a long while ago)
