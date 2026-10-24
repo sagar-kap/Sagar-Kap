@@ -1,6 +1,6 @@
 ### Hi, I'm Sagar 👋
 
-I work with awesome people at [Weburz](https://github.com/weburz) to create useful stuff — developer tooling like [terox](https://github.com/weburz/terox) and [crisp](https://github.com/weburz/crisp), and the web apps around them. Based in Sofia, Bulgaria 🇧🇬
+I work with awesome people at [Weburz](https://github.com/weburz) to create useful stuff — building the tools, products and services we ship. Based in Sofia, Bulgaria 🇧🇬
 
 #### 👷 What I'm working on
 {{range recentContributions 5}}
