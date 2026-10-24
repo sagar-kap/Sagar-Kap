@@ -2,29 +2,30 @@ name: Update README
 
 on:
   push:
+    branches: [main]
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v7
 
-      - uses: muesli/readme-scribe@master
+      # Pinned to the latest master commit; the only release (v0.1) predates it.
+      - uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
         env:
           GITHUB_TOKEN: ${{ secrets.READMEUPDATE }}
         with:
           template: "templates/github-profile.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Update generated README
-          branch: master
+          branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>

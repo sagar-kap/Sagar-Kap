@@ -1,28 +1,23 @@
-### Hi there 👋
+### Hi, I'm Sagar 👋
 
-#### 👷 Check out what I'm currently working on
+I work with awesome people at [Weburz](https://github.com/weburz) to create useful stuff — developer tooling like [terox](https://github.com/weburz/terox) and [crisp](https://github.com/weburz/crisp), and the web apps around them. Based in Sofia, Bulgaria 🇧🇬
 
-- [devhaver/readtes](https://github.com/devhaver/readtes) - Read the TES (2 days ago)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (1 week ago)
-- [weburz/terox](https://github.com/weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
-- [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) - A front end website for a photography shop. (1 month ago)
-- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) - Personal Blog on NuxtJS (1 month ago)
+#### 👷 What I'm working on
 
+- [devhaver/readtes](https://github.com/devhaver/readtes) — Read the TES (2 days ago)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) — The Weburz engineering site — long-form notes and open-source project docs. (1 week ago)
+- [weburz/terox](https://github.com/weburz/terox) — A CLI tool to scaffold project repositories from prebuilt templates (3 weeks ago)
+- [sagar-kap/frontend-photography](https://github.com/sagar-kap/frontend-photography) — A front end website for a photography shop. (1 month ago)
+- [sagar-kap/sagarkapoor](https://github.com/sagar-kap/sagarkapoor) — Personal Blog on NuxtJS (1 month ago)
 
-#### 📜 My recent blog posts
+#### 📜 From the blog
 
 - [Running Ubuntu Headless on Pi4 from USB](https://www.sagarkapoor.eu/raspberry-pi4-headless-ubuntu-from-usb/) (5 years ago)
 - [Getting Started With Git](https://www.sagarkapoor.eu/getting-started-with-git/) (5 years ago)
 - [How to Scrape a site with Python](https://www.sagarkapoor.eu/how-to-scrape-with-python/) (5 years ago)
-- [Hello there!](https://www.sagarkapoor.eu/about/) (a long while ago)
 
+#### 💬 Say hi
 
-#### 💬 Feedback
+Used one of my projects or read an article and found it useful? I'd love to hear about it. Feature requests and topic ideas are welcome too — open an issue or send me a DM.
 
-If you used one of my projects and/or read one my articles & found it useful, I would love to hear some feedback from you. Let me know if you want a feature or two implemented. Are there some specific topics you would like me to write about? Shoot me a DM & I'll figure something out.
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/SagarKapr
-- Blog: https://www.sagarkapoor.eu/
-- LinkedIn: https://www.linkedin.com/in/sagarkapr/
+[Blog](https://sagarkapoor.eu/) · [LinkedIn](https://www.linkedin.com/in/sagarkapr/) · [X / Twitter](https://x.com/SagarKapr)

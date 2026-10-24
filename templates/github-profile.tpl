@@ -1,23 +1,19 @@
-### Hi there 👋
+### Hi, I'm Sagar 👋
 
-#### 👷 Check out what I'm currently working on
+I work with awesome people at [Weburz](https://github.com/weburz) to create useful stuff — developer tooling like [terox](https://github.com/weburz/terox) and [crisp](https://github.com/weburz/crisp), and the web apps around them. Based in Sofia, Bulgaria 🇧🇬
+
+#### 👷 What I'm working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} — {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
-
-#### 📜 My recent blog posts
-{{range rss "https://www.sagarkapoor.eu/index.xml" 5}}
+#### 📜 From the blog
+{{range rss "https://sagarkapoor.eu/index.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+#### 💬 Say hi
 
-#### 💬 Feedback
+Used one of my projects or read an article and found it useful? I'd love to hear about it. Feature requests and topic ideas are welcome too — open an issue or send me a DM.
 
-If you used one of my projects and/or read one my articles & found it useful, I would love to hear some feedback from you. Let me know if you want a feature or two implemented. Are there some specific topics you would like me to write about? Shoot me a DM & I'll figure something out.
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/SagarKapr
-- Blog: https://www.sagarkapoor.eu/
-- LinkedIn: https://www.linkedin.com/in/sagarkapr/
+[Blog](https://sagarkapoor.eu/) · [LinkedIn](https://www.linkedin.com/in/sagarkapr/) · [X / Twitter](https://x.com/SagarKapr)
